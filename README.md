@@ -32,7 +32,7 @@ We will essentialy show here how we can work in osTicket system as a profesional
 <p> 
 <p> Stage 1: Intake <p>
 <p> 
-Go to portal, sign in and open a new ticket as a customer. For testing purposes the url is (http://localhost/osTicket)
+Go to portal, sign in and open a new ticket as a customer. For testing purposes the url is (http://localhost/osTicket/).
 </p> 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

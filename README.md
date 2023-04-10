@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/ZOUm27S.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
-
+We will essentialy show here how we can work in osTicket system as a profesional helpdesk responding to tickets and resolving issues.<br />
 
 <h2>Video Demonstration</h2>
 
@@ -14,7 +14,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- osTicket (Help Desk Ticketing System)
 
 <h2>Operating Systems Used </h2>
 
@@ -29,7 +29,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
+<p> 
+<p> Stage 1: Intake <p>
+<p> 
+Go the portal to sign in and open a new ticket as a customer. [For testing purposes the url is] (http://localhost/osTicket)
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>

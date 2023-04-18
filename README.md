@@ -53,7 +53,7 @@ Once the ticket has been submitted, the ticket can be assigned to an IT professi
 <p> 
 Now that the ticket has been assigned to the appropriate department and people, the IT staff can work on finding a solution to the issue. Each time a change is made to the ticket or there is an update to the situation, a comment can be made in the Ticket Thread. This allows everyone viewing the ticket to be aware of what has already done and facilitates communication between everyone involved.
 </p> 
-<img src="https://i.imgur.com/BN4ZFD2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7slZL6g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
 <h2>Stage 4: Resolution</h2>

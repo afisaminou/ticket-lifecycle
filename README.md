@@ -60,7 +60,8 @@ Now that the ticket has been assigned to the appropriate department and people, 
 <p> 
 When the issue has been resolved, the ticket can be closed. Now the ticket will move from the Open section to the Closed section. As an IT professionals, it is a good pratice to browse closed tickets since they can be a "big library"  to find solutions to open tickets.
 </p> 
-<img src="https://i.imgur.com/6bJfE6s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/Jni8oxj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br>
 
 Thank You for reading!
